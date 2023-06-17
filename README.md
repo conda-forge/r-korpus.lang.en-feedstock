@@ -1,11 +1,11 @@
-About r-korpus.lang.en
-======================
+About r-korpus.lang.en-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-korpus.lang.en-feedstock/blob/main/LICENSE.txt)
 
 Home: https://reaktanz.de/?c=hacking&s=koRpus
 
 Package license: GPL (>= 3)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-korpus.lang.en-feedstock/blob/main/LICENSE.txt)
 
 Summary: Adds support for the English language to the 'koRpus' package. To ask for help, report bugs, suggest feature improvements, or discuss the global development of the package, please consider subscribing to the koRpus-dev mailing list (<http://korpusml.reaktanz.de>).
 
