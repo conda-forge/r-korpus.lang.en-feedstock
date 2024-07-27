@@ -1,6 +1,5 @@
 {% set version = "0.1-4" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-korpus.lang.en
@@ -13,8 +12,7 @@ source:
   sha256: 629cfc278a2d9aa28cb31323bc5f0077322273aefff8532232ea48c98b0152b9
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
